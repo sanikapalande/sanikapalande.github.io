@@ -95,7 +95,7 @@ header #toggle:after
     right:0;
     width: 400px;
     height: 100vh;
-    background: #F774E1;
+    background: #cc92f8;
     z-index:1;
     display:grid;
     place-items: center;
